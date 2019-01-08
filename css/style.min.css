@@ -1,0 +1,54 @@
+.topimg{width:100%;}
+hr{border-color:lightgray;}
+textarea{border-color:green;}
+.mm-top{color:black;margin-top:38px !important;}
+.mm-img{height:100%;width:100% !important;}
+.testimonials-text{font-size:24px;}
+#testimonial{background-color:#525252;}
+.fa-quote-right{color:white;}
+.tab{color:white;}
+.tab:hover{text-decoration:none;background-color:#00943d !important;color:white !important;}
+.orange{background-color:#e6661e;}
+#mm-logo{margin-left:auto;margin-right:auto;}
+.mm-circle{border:1px solid darkblue !important;background-color:darkblue !important;}
+.mm-circle-white{border:1px solid white !important;background-color:white !important;}
+.blue{background-color:darkblue;}
+.comparison{height:200px;}
+.carousel-div{height:600px;}
+input{border:0;outline:0;background:transparent;border-bottom:2px solid #00943d;}
+@media screen and (max-width:767px){.topimg{height:350px !important;}
+.mm-topcard{height:350px !important;}
+.topss{height:350px !important;}
+.saying{font-size:40px !important;}
+.carousel-div{height:450px;}
+}
+@media screen and (max-width:990px) and (min-width:768px){.saying{font-size:45px !important;}
+.testimonials-text{font-size:18px;}
+}
+@media screen and (max-width:766px) and (min-width:491px){.saying{font-size:35px !important;}
+}
+@media screen and (max-width:490px){.saying{font-size:30px !important;}
+#testimonial{height:500px !important;}
+.testimonial-height{height:300px !important;}
+}
+@media screen (min-width:600px){.top-card{margin-top:43px;}
+}
+@media screen (max-width:890px){.top-card{margin-top:43px;}
+}
+@media screen and (min-width:993px) and (max-width:1200px){}
+@media screen and (min-width:1201px){}
+@media screen and (max-width:767px){.mm-img{height:300px;}
+.testimonials-text{font-size:18px;}
+}
+@media screen and (max-width:767px){.mm-img{height:300px;}
+.comparison{height:auto !important;}
+}
+@media screen and (min-width:768px) and (max-width:992px){}
+@media screen and (min-width:920px) and (max-width:1102px){.comparison{height:250px;}
+}
+@media screen and (max-width:919px){.comparison{height:325px;}
+}
+@media screen and (max-width:400px){.cp{font-size:24px;}
+.dh-overlay{font-size:11px !important;}
+.program-title{font-size:20px !important;}
+}
